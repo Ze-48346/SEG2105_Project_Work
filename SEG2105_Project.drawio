@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-04T04:13:48.232Z" agent="5.0 (Windows)" etag="j9gJlB5ayQIJfuf552qT" version="14.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-04T04:15:41.981Z" agent="5.0 (Windows)" etag="Cos6A_n6m9t--Jdpu3Lw" version="14.7.4" type="github">
   <diagram id="0Ks4ecTs9P0g9Y5sOIQz" name="Page-1">
     <mxGraphModel dx="1038" dy="603" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -85,7 +85,7 @@
         <mxCell id="jh5FtlDnbmtHi-5MfQ73-41" value="+ str: CourseCode" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="jh5FtlDnbmtHi-5MfQ73-40" vertex="1">
           <mxGeometry y="26" width="140" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="jh5FtlDnbmtHi-5MfQ73-42" value="+ str:time &#xa;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="jh5FtlDnbmtHi-5MfQ73-40" vertex="1">
+        <mxCell id="jh5FtlDnbmtHi-5MfQ73-42" value="+ str:Name &#xa;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="jh5FtlDnbmtHi-5MfQ73-40" vertex="1">
           <mxGeometry y="52" width="140" height="26" as="geometry" />
         </mxCell>
         <mxCell id="jh5FtlDnbmtHi-5MfQ73-43" value="+ str: CourseType" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="jh5FtlDnbmtHi-5MfQ73-40" vertex="1">
