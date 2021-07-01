@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-01T04:31:49.587Z" agent="5.0 (Windows)" etag="YZuhZ9MWRJJkko1Ljzq3" version="14.8.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-01T04:37:53.194Z" agent="5.0 (Windows)" etag="SHNzQEjJC_OFceophQbw" version="14.8.3" type="github">
   <diagram id="0Ks4ecTs9P0g9Y5sOIQz" name="Page-1">
     <mxGraphModel dx="1038" dy="603" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -138,7 +138,7 @@
         <mxCell id="EcMXGeiyFKlZKvhXCnfq-14" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" parent="EcMXGeiyFKlZKvhXCnfq-12" vertex="1">
           <mxGeometry y="26" width="200" height="8" as="geometry" />
         </mxCell>
-        <mxCell id="EcMXGeiyFKlZKvhXCnfq-15" value="+viewAllCourse():void&#xa;+assignCourse():void&#xa;+unassignCourse():boolean&#xa;+editCourseInfor():void&#xa;+addCourseInfor():boolean&#xa;+deleteCourseInfor():void&#xa;+searchByCourseName():boolean&#xa;+searchByCourseCode():boolean&#xa;+register()&#xa;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="EcMXGeiyFKlZKvhXCnfq-12" vertex="1">
+        <mxCell id="EcMXGeiyFKlZKvhXCnfq-15" value="+viewAllCourse():void&#xa;+assignCourse():void&#xa;+unassignCourse():boolean&#xa;+editCourseInfor():void&#xa;+addCourseInfor():boolean&#xa;+deleteCourseInfor():void&#xa;+searchByCourseName():boolean&#xa;+searchByCourseCode():boolean&#xa;+register():void&#xa;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="EcMXGeiyFKlZKvhXCnfq-12" vertex="1">
           <mxGeometry y="34" width="200" height="146" as="geometry" />
         </mxCell>
         <mxCell id="EcMXGeiyFKlZKvhXCnfq-23" value="" style="endArrow=none;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endFill=0;" parent="1" target="jh5FtlDnbmtHi-5MfQ73-41" edge="1" source="EcMXGeiyFKlZKvhXCnfq-12">
@@ -171,8 +171,8 @@
         <mxCell id="EcMXGeiyFKlZKvhXCnfq-30" value="unassign" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="370" y="820" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="HSxAm8ji3w4NXcuQrKm--2" value="+register()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="575" y="600" width="70" height="20" as="geometry" />
+        <mxCell id="HSxAm8ji3w4NXcuQrKm--2" value="+register():void" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="580" y="600" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="uRWbeKHuz0nV8od-fd5c-1" value="" style="triangle;whiteSpace=wrap;html=1;direction=south;fillColor=#000000;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="305" y="840" width="10" height="10" as="geometry" />
